@@ -2,6 +2,7 @@
 #![feature(array_map)]
 
 pub mod rasterising;
+pub mod ray_tracing;
 pub mod model;
 pub mod transform;
 
